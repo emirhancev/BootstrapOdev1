@@ -1,0 +1,23 @@
+body{
+    background-color: #E9ECEF;
+}
+.TextHeader{
+    margin-top: 50px;
+}
+
+.hizala{
+    text-align: center;
+    padding-left: 0px;
+}
+
+.HizalaHakkımız{
+    margin-left: 2%;
+}
+
+.ucret{
+    background-color: rgb(66, 61, 61);
+    border-radius: 3px;
+    padding: 4px;
+    color: white;
+    font-size: 14px;
+}
